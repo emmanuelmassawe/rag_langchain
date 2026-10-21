@@ -9,6 +9,11 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.4.0",
+    "langchain>=1.4.6",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.12",
+    "pymupdf>=2.0",
+    "pypdf>=6.21.2",
 ]
 
 [project.scripts]
