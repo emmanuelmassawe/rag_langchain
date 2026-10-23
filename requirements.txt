@@ -3,3 +3,5 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+langchain_google_genai
+langchain_qdrant
